@@ -29,6 +29,10 @@
       "repeatable": true,
       "component": "description.job-description",
       "required": true
+    },
+    "category": {
+      "type": "string",
+      "required": true
     }
   }
 }
